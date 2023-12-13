@@ -1,0 +1,11 @@
+@extends('layouts.main')
+@section('content')
+    <div class="container">
+        <h2>2 UMKM TERPILIH SEBAGAI PEMENANG IMA AWAED 2023</h2>
+        <img src="{{ asset('img/umkm3.jpeg') }}" class="card-img" alt="...">
+        <h4>Dua UMKM terpilih sebagai pemenang di event IMA UMKM Award 2023, menyingkirkan 475 pelaku usaha lainnya yang berasal dari seluruh Indonesia. Dua UMKM pemenang tersebut adalah Imago Raw Honey dan DBFoods. Masing-masing juara 1 IMA UMKM Award 2023 mendapatkan hadiah berupa uang tunai Rp 30 juta yang disertai dengan kegiatan business matching bersama beberapa perusahaan. Penjurian dilakukan pada Musyawarah Nasional IMA 2023 di Jakarta pada Sabtu (14/10/2023). Ketua IMA Awards 2023 sekaligus VP SME and Entrepreneurship IMA Pusat Erik Hidayat selaku mengatakan sangat berkomitmen untuk mendukung pertumbuhan UMKM dan memberikan platform yang memungkinkan UMKM Indonesia untuk bersaing di tingkat nasional dan internasional. “Dalam kondisi yang semakin kompetitif, UMKM adalah tulang punggung ekonomi kita, sekaligus penyedia lapangan kerja yang penting," ujar dia dalam keterangan resmi, Minggu (15/10/2023). Imago Raw Honey merupakan perusahaan penyedia superfood, yaitu madu murni dari Gunung Gede Pangrango dan hutan di Jawa Tengah dari DKI Jakarta. Salah satu produk unggulannya adalah Imago Detox Honey (Itox) yang berfungsi untuk meningkatkan imun dan detoksifikasi tubuh. Produk Imago Raw Honey tidak hanya dikonsumsi oleh masyarakat Jabodetabek, namun sudah mencapai pasar internasional, salah satunya di Amerika.</h4>
+        <h4>Sementara itu DBFoods dari Padang yang terpilih sebagai Juara 1 IMA UMKM Awards merupakan perusahaan dengan visi global, dan berhasil menjadikan dendeng balado mendunia. DBFoods merupakan produsen makanan khas padang yang didirikan sejak tahun 1969. Produk dari DBFoods di antaranya adalah berbagai olahan dendeng dan rendang. Pada 2023, di tangan generasi ketiga, DBFoods membangun rumah produksi baru dengan kapasitas 8 ton per bulan, menjadikannya sebagai produsen Dendeng Balado terbesar di Indonesia.</h4>
+        <br>
+        <a href="/umkm" class="btn btn-dark">Kembali</a>
+    </div>
+@endsection

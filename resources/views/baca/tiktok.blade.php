@@ -1,0 +1,18 @@
+@extends('layouts.main')
+@section('content')
+    <div class="container">
+        <h2>Duduk Perkara Social E-commers Dilarang Jualan,Bermula Tiktok Shop yang dikeluhkan UMKM</h2>
+        <img src="{{ asset('img/web1.jpg') }}" class="card-img" alt="...">
+        <h4>Praktik social e-commerce atau perdagangan secara online lewat platform media sosial tengah menjadi sorotan. Pasalnya, aktivitas social e-commerce ternyata secara langsung mengancam eksistensi pelaku usaha mikro, kecil, dan menengah (UMKM). Mereka mengeluhkan sepinya pembeli seiring kian menjamurnya praktik social e-commerce. Ratapan dan keluhan pelaku UMKM akhirnya didengar pemerintah. Terbaru, pemerintah melarang social e-commerce bertransaksi langsung. Pemerintah bahkan mengancam menutup social e-commerce apabila tetap nekat berjualan.</h4>
+        <br>
+        <h3>Berawal Keluham UMKM</h3>
+        <img src="{{ asset('img/tiktok1.jpg') }}" class="card-img" alt="...">
+        <h4>Mengemuka isu social e-commerce berawal dari keluhan sejumlah pedagang di Pasar Tanah Abang, Jakarta. Mereka mengeluhkan atas semakin banyaknya social e-commerce yang ternyata membuat aktivitas perdagangan di Tanah Abang benar-benar merosot. Akibat social e-commerce pula tak sedikit di antara mereka terpaksa gulung tikar.Salah satu pedagang berinisial E (40) mengatakan, kondisi Pasar Tanah Abang yang sepi pembeli adalah bukti mereka tengah babak belur. Edi berujar, perlu ada regulasi yang jelas agar orang-orang berminat kembali berbelanja ke pasar. "Buat pemerintah, dipantaulah. Masak pusat grosir terbesar se-Asia Tenggara kayak kuburan?" kata Edi saat dihubungi Kompas.com, Jumat (15/9/2023). Kondisi serupa juga dirasakan para pedagang di Pasar Johar, Karawang, Jawa Barat. Para pedagang offline ini merasakan betul penurunan omzer.Midah (54) misalnya. Pedagang pakaian yang berdagang di Pasar Johar Karawang sejak 1985 itu merasakan betul penurunan omzet yang ia alami. Jika dahulu seminggu dua kali untuk belanja ke Pasar Tanah Abang, kini ia baru belanja sekali setelah Lebaran. "Turun banget. Sekarang gak kaya dulu. Sekarang tidak ada istilah tanggal muda. Sama kadang sehari cuma satu potong. Kadang nunggu 4 hari baru laku," kata Midah di Pasar Johar, Jumat (22/9/2023).</h4>
+        <br>
+        <h3>Direspons Presiden Joko Widodo</h3>
+        <img src="{{ asset('img/tiktok2.jpg') }}" class="card-img" alt="...">
+        <h4>Curhatan para pedagang offline di sejumlah daerah akhirnya didengar Presiden Joko Widodo. Jokowi mengakui dampak social e-commerce seperti TikTok Shop membuat penjualan dan produksi UMKM anjlok.Jokowi menilai social e-commerce seharusnya hanya sekadar untuk kegiatan media sosial, bukan berjualan. "Di beberapa pasar sudah mulai anjlok menurun karena serbuan, mestinya ini kan dia itu sosial media, bukan ekonomi media," kata Presiden Jokowi usai meninjau jalan di Kabupaten Penajam Paser Utara, Kalimantan Timur, dikutip dari Antara, Sabtu (23/9/2023). Jokowi menegaskan bahwa pemerintah melalui Kementerian Perdagangan telah menyiapkan aturan untuk mengendalikan niaga elektronik atau e-commerce berbasis media sosial.Regulasi yang sedang dirancang tersebut akan mengatur fungsi aplikasi sebagai media sosial dan platform perdagangan atau media ekonomi. "Masih berada posisi regulasinya di Kementerian Perdagangan. Yang lain-lainnya sudah rampung, tinggal di Kementerian Perdagangan. Kita tunggu," ujar Jokowi.</h4>
+        <br>
+        <a href="/home" class="btn btn-dark">Kembali</a>
+    </div>
+@endsection
